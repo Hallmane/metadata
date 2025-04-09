@@ -1,0 +1,19 @@
+{
+    "name": "gotland",
+    "description": "simple wallet on hyperware",
+    "image": "https://sv.wikipedia.org/wiki/Gotland#/media/Fil:Gotlands_vapen.svg",
+    "properties": {
+        "package_name": "gotland",
+        "current_version": "0.1.0",
+        "publisher": "lazybonesitis.os",
+        "mirrors": [],
+        "code_hashes": {
+            "0.1.0": "5ecdbb5370bdf4d14a23832ec831931717526d9b81680971b3dd944e5c9551f4"
+        },
+        "wit_version": 1,
+        "dependencies": []
+    },
+    "external_url": "",
+    "animation_url": ""
+}
+
