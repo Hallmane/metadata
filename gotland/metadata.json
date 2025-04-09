@@ -1,7 +1,7 @@
 {
     "name": "gotland",
     "description": "simple wallet on hyperware",
-    "image": "https://sv.wikipedia.org/wiki/Gotland#/media/Fil:Gotlands_vapen.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Gotland.svg/1280px-Flag_of_Gotland.svg.png",
     "properties": {
         "package_name": "gotland",
         "current_version": "0.1.0",
