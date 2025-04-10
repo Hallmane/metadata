@@ -4,11 +4,12 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_Gotland.svg/1280px-Flag_of_Gotland.svg.png",
     "properties": {
         "package_name": "gotland",
-        "current_version": "0.1.0",
+        "current_version": "0.1.1",
         "publisher": "lazybonesitis.os",
         "mirrors": [],
         "code_hashes": {
-            "0.1.0": "5ecdbb5370bdf4d14a23832ec831931717526d9b81680971b3dd944e5c9551f4"
+            "0.1.0": "5ecdbb5370bdf4d14a23832ec831931717526d9b81680971b3dd944e5c9551f4",
+            "0.1.1": "a7ada6a511b5e6a26b6a424afe802d4b7f129aca9aa5dd58c631794d1c1b0261"
         },
         "wit_version": 1,
         "dependencies": []
