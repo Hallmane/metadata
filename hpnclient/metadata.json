@@ -1,0 +1,19 @@
+{
+    "name": "hpnclient",
+    "description": "give your language model a wallet and let it spend your money",
+    "image": "https://i.pinimg.com/736x/6a/d5/50/6ad5506b8b3e488702a9667dcd03eb11.jpg",
+    "properties": {
+        "package_name": "hpnclient",
+        "current_version": "0.1.0",
+        "publisher": "lazybonesitis.os",
+        "mirrors": [],
+        "code_hashes": {
+            "0.1.0": "5ee79597d09c2ca644e41059489f1ed99eb8c5919b2830f9e3e4a1863cb0da88"
+        },
+        "wit_version": 1,
+        "dependencies": []
+    },
+    "external_url": "",
+    "animation_url": ""
+}
+
